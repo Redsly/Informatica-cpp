@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623660295 source:d:\stuffs\scoala\informatica_9i_sem ii\problema3_v8\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

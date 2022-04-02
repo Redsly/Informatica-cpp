@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635503134 source:d:\stuffs\scoala\laborator_info_sibisan2021\grafica\tema_grafica_29.10\main.cpp
+	<iostream>
+	<graphics.h>
+

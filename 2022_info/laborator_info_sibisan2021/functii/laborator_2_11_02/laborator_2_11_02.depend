@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1644568494 source:d:\stuffs\scoala\laborator_info_sibisan2021\functii\laborator_2_11_02\main.cpp
+	<iostream>
+	"matrice.h"
+
+1644568520 d:\stuffs\scoala\laborator_info_sibisan2021\functii\laborator_2_11_02\matrice.h
+	<fstream>
+
